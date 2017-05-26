@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbolLibrary xmlns="http://www.metacase.com/symbol" xmlns:sym="http://www.metacase.com/symbol">
+	<librarySymbol name="AM_Actor">
+		<objectSymbol offset="77,22" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="70,20 90,20 90,40 70,40 70,20" targetPointX="90" targetPointY="19" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="34" version="1.2" width="90" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="12" sym:width="13" sym:x="7.7e1" sym:y="2.2e1">
+					<ellipse cx="83.5" cy="24" fill="none" rx="3.25" ry="2" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5" x2="83.5" y1="26" y2="30">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5" x2="80.25" y1="30" y2="34">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5" x2="86.75" y1="30" y2="34">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="77" x2="90" y1="26.8" y2="26.8">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_AppComponent">
+		<objectSymbol offset="95,32" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="90,30 110,30 110,48 90,48 90,30" targetPointX="110" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="44" version="1.2" width="109" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="12" sym:width="14" sym:x="9.5e1" sym:y="3.2e1">
+					<rect fill="none" height="2.4" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="9.33334" x="95" y="34.4">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="2.40001" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="9.33334" x="95" y="39.2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<polygon fill="none" points="97.3333,32 97.3333,34.4 95,34.4 95,36.8 97.3333,36.8 97.3333,39.2 95,39.2 95,41.6 97.3333,41.6 97.3333,44 109,44 109,32" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Artifact">
+		<objectSymbol offset="67,30" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="61,28 81,28 81,45 61,45 61,28" targetPointX="81" targetPointY="26.5" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="43" version="1.2" width="80" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="13" sym:width="13" sym:x="6.7e1" sym:y="3.0e1">
+					<polygon fill="none" points="67,30 67,43 80,43 80,35.2 74.8,30" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<polyline fill="none" points="74.8,30 74.8,35.2 80,35.2" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Assessment">
+		<objectSymbol offset="67,20" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="60,19 79,19 79,41.6667 60,41.6667 60,19" targetPointX="80" targetPointY="19" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="34" version="1.2" width="80" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="14" sym:width="13" sym:x="6.7e1" sym:y="2.0e1">
+					<ellipse cx="74.8684" cy="25.25" fill="none" rx="5.13158" ry="5.25" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="71.7895" x2="67" y1="29.1" y2="34">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Behavior">
+		<objectSymbol offset="15,13" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="15,10 40,10 40,30 15,30 15,10" targetPointX="39" targetPointY="10" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="30" version="1.2" width="40" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="none" height="17" rx="7" ry="7" stroke="rgb(0,0,0)" stroke-width="1" width="25" x="15" y="13">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_BusinessRole">
+		<objectSymbol offset="48,22" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="45,20 65,20 65,35 45,35 45,20" targetPointX="65" targetPointY="18" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="31" version="1.2" width="64" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="9" sym:width="16" sym:x="4.8e1" sym:y="2.2e1">
+					<ellipse cx="50.2857" cy="26.5" fill="none" rx="2.28571" ry="4.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="9.0e1" sym:sweepAngle="1.8e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="61.7143" cy="26.5" fill="none" rx="2.28571" ry="4.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="50.2857" x2="61.7143" y1="22" y2="22">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="50.2857" x2="61.7143" y1="31" y2="31">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Capability">
+		<objectSymbol offset="37,17" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="35,15 50,15 50,30 35,30 35,15" targetPointX="50" targetPointY="13" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="28" version="1.2" width="48" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="11" sym:width="11" sym:x="3.7e1" sym:y="1.7e1">
+					<rect fill="none" height="3.66667" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="3.66667" x="44.3333" y="17">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="3.66667" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="3.66667" x="44.3333" y="20.6667">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="3.66667" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="3.66667" x="44.3333" y="24.3333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="3.66667" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="3.66666" x="40.6667" y="24.3333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="3.66667" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="3.66666" x="40.6667" y="20.6667">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="3.66667" rx="0" ry="8" stroke="rgb(0,0,0)" stroke-width="1" width="3.66667" x="37" y="24.3333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_CN">
+		<objectSymbol offset="45,22" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="40,20 60,20 60,39 40,39 40,20" targetPointX="60" targetPointY="18.5" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="32" version="1.2" width="59" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="2" sym:height="10" sym:width="14" sym:x="4.5e1" sym:y="2.2e1">
+					<ellipse cx="48.5" cy="23.25" fill="rgb(0,0,0)" rx="1.16667" ry="1.25" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="46.1667" cy="30.75" fill="rgb(0,0,0)" rx="1.16667" ry="1.25" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="57.8333" cy="23.25" fill="rgb(0,0,0)" rx="1.16667" ry="1.25" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="55.5" cy="30.75" fill="rgb(0,0,0)" rx="1.16666" ry="1.25" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="2" x1="48.5" x2="57.8333" y1="23.25" y2="23.25">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="2" x1="57.8333" x2="55.5" y1="23.25" y2="30.75">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="2" x1="55.5" x2="46.1667" y1="30.75" y2="30.75">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="2" x1="48.5" x2="46.1667" y1="23.25" y2="30.75">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Collaboration">
+		<objectSymbol offset="51,22" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="47.3333,20 67.3333,20 67.3333,36 47.3333,36 47.3333,20" targetPointX="67.3333" targetPointY="18" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="33" version="1.2" width="66" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="11" sym:width="15" sym:x="5.1e1" sym:y="2.2e1">
+					<ellipse cx="56" cy="27.5" fill="none" rx="5" ry="5.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="61" cy="27.5" fill="none" rx="5" ry="5.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Constraint">
+		<objectSymbol offset="50,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="50,28 70,28 70,40 50,40 50,28" targetPointX="70" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="40" version="1.2" width="70" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="20" sym:x="5.0e1" sym:y="3.0e1">
+					<polygon fill="none" points="55,30 50,40 65,40 70,30" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="60" x2="55" y1="30" y2="40">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_CourseAction">
+		<objectSymbol offset="40,15" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="40,15 55,15 55,31 40,31 40,15" targetPointX="54" targetPointY="16" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="31" version="1.2" width="55" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" sym:height="16" sym:width="15" sym:x="4.0e1" sym:y="1.5e1">
+					<ellipse cx="46.25" cy="24.6" fill="rgb(0,0,0)" rx="2.08333" ry="2.13333" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="46.25" cy="24.6" fill="none" rx="4.16666" ry="4.26667" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="46.25" cy="24.6" fill="none" rx="6.25" ry="6.4" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="51.875" cy="18.2" fill="none" rx="3.125" ry="3.2" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="4.5e1" sym:sweepAngle="1.61565e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="48.75" cy="21.4" fill="none" rx="3.125" ry="3.2" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="4.5e1" sym:sweepAngle="1.61565e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="2" x1="51.875" x2="46.875" y1="18.2" y2="23.96">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Device">
+		<objectSymbol offset="33,23" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,20 50,20 50,40 30,40 30,20" targetPointX="50" targetPointY="20" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="36" version="1.2" width="48" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="13" sym:width="15" sym:x="3.3e1" sym:y="2.3e1">
+					<rect fill="none" height="9.38889" rx="5" ry="3" stroke="rgb(0,0,0)" stroke-width="1" width="15" x="33" y="23">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<polygon fill="none" points="36,32.3889 33,36 48,36 45,32.3889" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_DistributionNetwork">
+		<objectSymbol offset="37,22" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,20 50,20 50,35 30,35 30,20" targetPointX="50" targetPointY="18" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="33" version="1.2" width="49" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="11" sym:width="12" sym:x="3.7e1" sym:y="2.2e1">
+					<polyline fill="none" points="40,22 37,27.5 40,33 40,33" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<polyline fill="none" points="46,22 49,27.5 46,33" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="38.5" x2="47.5" y1="24.75" y2="24.75">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="38.5" x2="47.5" y1="30.25" y2="30.25">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Driver">
+		<objectSymbol offset="75,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="70,28 91,28 91,50 70,50 70,28" targetPointX="89.5" targetPointY="29" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="45" version="1.2" width="90" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" sym:height="15" sym:width="15" sym:x="7.5e1" sym:y="3.0e1">
+					<ellipse cx="82.5" cy="37.5" fill="none" rx="5.35715" ry="5.35714" stroke="rgb(0,0,0)" stroke-width="2" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="77.1429" x2="81.4286" y1="32.1429" y2="36.4286">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<ellipse cx="82.5" cy="37.5" fill="rgb(0,0,0)" rx="1.07143" ry="1.07143" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="82.5" x2="82.5" y1="30" y2="36.4286">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="75" x2="81.4286" y1="37.5" y2="37.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5714" x2="87.8571" y1="36.4286" y2="32.1429">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="81.4286" x2="77.1429" y1="38.5714" y2="42.8571">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5714" x2="87.8571" y1="38.5714" y2="42.8571">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="83.5714" x2="90" y1="37.5" y2="37.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="82.5" x2="82.5" y1="38.5714" y2="45">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Equipment">
+		<objectSymbol offset="40,30" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="40,45 40,25 60,25 60,45 40,45" targetPointX="56" targetPointY="29" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="45" version="1.2" width="55" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="none" stroke-width="1" sym:height="15" sym:width="15" sym:x="4.0e1" sym:y="3.0e1">
+					<polygon fill="rgb(0,0,0)" points="55,38.4 55,36.6 53.3101,36 53.3071,36.0073 53.1978,35.5886 53.034,35.2063 52.8702,34.824 52.6699,34.46 52.6666,34.4546 52.669,34.4523 53.4397,32.8331 52.1668,31.5603 50.5477,32.3309 50.5454,32.3333 50.54,32.3301 50.176,32.1299 49.7937,31.966 49.4114,31.8022 48.9927,31.693 49,31.6898 48.4,30 46.6,30 46,31.6899 46.0073,31.693 45.5886,31.8022 45.2063,31.966 44.824,32.1299 44.46,32.3301 44.4546,32.3334 44.4523,32.331 42.8331,31.5603 41.5603,32.8331 42.3309,34.4523 42.3333,34.4546 42.3301,34.46 42.1298,34.824 41.966,35.2063 41.8022,35.5886 41.693,36.0073 41.6898,36 40,36.6 40,38.4 41.6899,39 41.693,38.9927 41.8022,39.4114 41.966,39.7937 42.1298,40.176 42.3301,40.5401 42.3334,40.5455 42.331,40.5477 41.5603,42.1668 42.8331,43.4397 44.4523,42.669 44.4546,42.6666 44.46,42.6699 44.824,42.8701 45.2063,43.034 45.5886,43.1977 46.0073,43.3071 46,43.3101 46.6,45 48.4,45 49,43.3101 48.9927,43.3071 49.4114,43.1977 49.7937,43.034 50.176,42.8701 50.54,42.6699 50.5454,42.6666 50.5477,42.669 52.1668,43.4397 53.4397,42.1668 52.669,40.5477 52.6666,40.5455 52.6699,40.5401 52.8702,40.176 53.034,39.7937 53.1978,39.4114 53.3071,38.9927 53.3101,39" stroke="none" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<polygon fill="rgb(192,255,192)" points="47.5,40.5036 47.1905,40.4854 46.8993,40.4308 46.608,40.358 46.335,40.267 46.0619,40.1396 45.8252,39.9939 45.5886,39.8119 45.3701,39.6298 45.1881,39.4114 45.0061,39.1748 44.8604,38.9381 44.733,38.6651 44.642,38.392 44.5692,38.1007 44.5146,37.8095 44.4963,37.5 44.4963,37.5 44.5146,37.1905 44.5692,36.8993 44.642,36.608 44.733,36.3349 44.8604,36.0619 45.0061,35.8252 45.1881,35.5886 45.3701,35.3702 45.5886,35.1881 45.8252,35.0061 46.0619,34.8604 46.335,34.733 46.608,34.642 46.8993,34.5692 47.1905,34.5146 47.5,34.4964 47.5,34.4964 47.8095,34.5146 48.1007,34.5692 48.392,34.642 48.6651,34.733 48.9381,34.8604 49.1747,35.0061 49.4114,35.1881 49.6298,35.3702 49.8119,35.5886 49.9939,35.8252 50.1396,36.0619 50.267,36.3349 50.358,36.608 50.4308,36.8993 50.4854,37.1905 50.5036,37.5 50.5036,37.5 50.4854,37.8095 50.4308,38.1007 50.358,38.392 50.267,38.6651 50.1396,38.9381 49.9939,39.1748 49.8119,39.4114 49.6298,39.6298 49.4114,39.8119 49.1747,39.9939 48.9381,40.1396 48.6651,40.267 48.392,40.358 48.1007,40.4308 47.8095,40.4854" stroke="none" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Event">
+		<objectSymbol offset="31,13" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="25,9.8 45.8333,9.8 45.8333,23.5098 25,23.5098 25,9.8" targetPointX="45.8333" targetPointY="9.8" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="20" version="1.2" width="45" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="7" sym:width="14" sym:x="3.1e1" sym:y="1.3e1">
+					<ellipse cx="40.625" cy="16.5" fill="none" rx="4.375" ry="3.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="2.785308e2" sym:sweepAngle="1.629385e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<polyline fill="none" points="41.5,13 31,13 32.75,16.5 31,20 41.5,20" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Facility">
+		<objectSymbol offset="45,42" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="40,40 60,40 60,60 40,60 40,40" targetPointX="60" targetPointY="40" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="55" version="1.2" width="59" xmlns="http://www.w3.org/2000/svg">
+				<polygon fill="none" points="45,42 46.5556,42 46.5556,50.6667 49.6667,47.7778 49.6667,50.6667 52.7778,47.7778 52.7778,50.6667 55.8889,47.7778 55.8889,50.6667 59,47.7778 59,55 45,55" stroke="rgb(0,0,0)" stroke-width="1">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</polygon>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Function">
+		<objectSymbol offset="75,22" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="70,20 90,20 90,40 70,40 70,20" targetPointX="90.4" targetPointY="20" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="33" version="1.2" width="88" xmlns="http://www.w3.org/2000/svg">
+				<polygon fill="none" points="75,25.6667 75,33 81.5,29.3333 88,33 88,25.6667 81.5,22" stroke="rgb(0,0,0)" stroke-width="1">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</polygon>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Gap">
+		<objectSymbol offset="30,10" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,5 45,5 45,19.5856 30,19.5856 30,5" targetPointX="45" targetPointY="5" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="20" version="1.2" width="45" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="15" sym:x="3.0e1" sym:y="1.0e1">
+					<ellipse cx="37.5" cy="15" fill="none" rx="4.5" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="30" x2="45" y1="13.3333" y2="13.3333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="30" x2="45" y1="16.6667" y2="16.6667">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Goal">
+		<objectSymbol offset="50,22" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="45,20 65,20 65,40 45,40 45,20" targetPointX="65" targetPointY="19" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="35" version="1.2" width="63" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="13" sym:width="13" sym:x="5.0e1" sym:y="2.2e1">
+					<ellipse cx="56.5" cy="28.5" fill="rgb(0,0,0)" rx="2.16667" ry="2.16667" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="56.5" cy="28.5" fill="none" rx="4.33333" ry="4.33333" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="56.5" cy="28.5" fill="none" rx="6.5" ry="6.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_GroupingHeader">
+		<objectSymbol offset="30,20" scaleFilter="1,0">
+			<defaultConnectable isSticky="true" points="30,20 130,20 130,35 30,35 30,20" targetPointX="80" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="35" version="1.2" width="130" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="none" height="15" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-dasharray="8,2" stroke-width="1" width="100" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+				<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="start" width="100" x="30" y="20">
+					ReportTextSource:id
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</textArea>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Interaction">
+		<objectSymbol offset="30,11" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="25,10 45,10 45,26 25,26 25,10" targetPointX="44.4" targetPointY="8" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="21" version="1.2" width="43" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="13" sym:x="3.0e1" sym:y="1.1e1">
+					<ellipse cx="34.875" cy="16" fill="none" rx="4.875" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="9.0e1" sym:sweepAngle="1.8e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="38.125" cy="16" fill="none" rx="4.875" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="2.7e2" sym:sweepAngle="1.8e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="34.875" x2="34.875" y1="11" y2="21">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="38.125" x2="38.125" y1="11" y2="21">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Interface">
+		<objectSymbol offset="25,20" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="25,20 40,20 40,30 25,30 25,20" targetPointX="40" targetPointY="18" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="30" version="1.2" width="40" xmlns="http://www.w3.org/2000/svg">
+				<ellipse cx="35" cy="25" fill="none" rx="5" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</ellipse>
+				<line stroke="rgb(0,0,0)" stroke-width="1" x1="25" x2="30" y1="25" y2="25">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</line>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Label">
+		<objectSymbol offset="30,20" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,20 100,20 100,50 30,50 30,20" targetPointX="65" targetPointY="35" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="50" version="1.2" width="100" xmlns="http://www.w3.org/2000/svg">
+				<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="70" x="30" y="20">
+					ReportTextSource:id
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</textArea>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Line">
+		<objectSymbol offset="20,15" scaleFilter="1,0">
+			<defaultConnectable isSticky="true" points="20,15 120,15 120,25 20,25 20,15" targetPointX="70" targetPointY="20" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="25" version="1.2" width="120" xmlns="http://www.w3.org/2000/svg">
+				<line stroke="rgb(0,0,0)" stroke-width="1" x1="20" x2="120" y1="20" y2="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</line>
+				<rect fill="none" height="10" rx="0" ry="0" stroke="none" stroke-width="1" width="100" x="20" y="15">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Location">
+		<objectSymbol offset="50,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="50,26 62,26 62,50.5085 50,50.5085 50,26" targetPointX="61" targetPointY="27.114" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="48" version="1.2" width="60" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="18" sym:width="10" sym:x="5.0e1" sym:y="3.0e1">
+					<ellipse cx="55" cy="36.1667" fill="none" rx="5" ry="6.16667" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="1.753645e2" sym:sweepAngle="1.877295e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="50" x2="55" y1="36.6667" y2="48">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="60" x2="55" y1="36.6667" y2="48">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Material">
+		<objectSymbol offset="37,20" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="32,19.4815 50.4,19.4815 50.4,38 32,38 32,19.4815" targetPointX="50.4" targetPointY="17.6296" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="33" version="1.2" width="50" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="13" sym:width="13" sym:x="3.7e1" sym:y="2.0e1">
+					<polygon fill="none" points="40.7143,20 46.2857,20 50,26.5 46.2857,33 40.7143,33 37,26.5" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="39.2286" x2="41.6429" y1="26.5" y2="22.1667">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="41.6429" x2="45.3571" y1="30.8333" y2="30.8333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="47.7714" x2="45.3571" y1="26.5" y2="22.1667">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Node">
+		<objectSymbol offset="24,32" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="20,30 40,30 40,50 20,50 20,30" targetPointX="40" targetPointY="30" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="44" version="1.2" width="38" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="12" sym:width="14" sym:x="2.4e1" sym:y="3.2e1">
+					<rect fill="none" height="10.5" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="11.2" x="24" y="33.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<polyline fill="none" points="24,33.5 27.1111,32 38,32 38,42.5 35.2,44" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="38" x2="35.2" y1="32" y2="33.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Outcome">
+		<objectSymbol offset="40,21" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="36,19.5385 55.2,19.5385 55.2,38 36,38 36,19.5385" targetPointX="55.2" targetPointY="18.6154" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="34" version="1.2" width="53" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10.8333" sym:width="10.8333" sym:x="4.216667e1" sym:y="2.1e1">
+					<ellipse cx="47.5833" cy="26.4167" fill="rgb(0,0,0)" rx="1.80556" ry="1.80556" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="47.5833" cy="26.4167" fill="none" rx="3.61112" ry="3.61111" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="47.5833" cy="26.4167" fill="none" rx="5.41667" ry="5.41667" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+				<polygon fill="rgb(0,0,0)" points="42.1667,29.4259 44.5741,31.8333 45.7778,28.2222" stroke="rgb(0,0,0)" stroke-width="1">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</polygon>
+				<line stroke="rgb(0,0,0)" stroke-width="1" x1="40" x2="45.7778" y1="34" y2="28.2222">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</line>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Path">
+		<objectSymbol offset="55,31" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="50,30 70,30 70,45 50,45 50,30" targetPointX="70" targetPointY="29" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="44" version="1.2" width="70" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="13" sym:width="15" sym:x="5.5e1" sym:y="3.1e1">
+					<polyline fill="none" points="59.2857,31 55,37.5 59.2857,44 59.2857,44" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<polyline fill="none" points="65.7143,31 70,37.5 65.7143,44" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polyline>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="57.1429" x2="59.2857" y1="37.5" y2="37.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="61.4286" x2="63.5714" y1="37.5" y2="37.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="65.7143" x2="67.8571" y1="37.5" y2="37.5">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Plateau">
+		<objectSymbol offset="30,15" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,10 45,10 45,21 30,21 30,10" targetPointX="45" targetPointY="10" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="21" version="1.2" width="45" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="6" sym:width="15" sym:x="3.0e1" sym:y="1.5e1">
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="33.4615" x2="45" y1="15" y2="15">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="30" x2="41.5385" y1="21" y2="21">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="31.7308" x2="43.2692" y1="18" y2="18">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Principle">
+		<objectSymbol offset="48,31" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="45,30 61,30 61,47 45,47 45,30" targetPointX="61" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="45" version="1.2" width="61" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="none" stroke-width="1" sym:height="14" sym:width="13" sym:x="4.8e1" sym:y="3.1e1">
+					<rect fill="none" height="14" rx="4" ry="4" stroke="rgb(0,0,0)" stroke-width="1" width="11" x="48" y="31">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="bold" height="13.1765" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="12.3125" x="48.6875" y="31">
+						!
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</textArea>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Process">
+		<objectSymbol offset="74,32" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="70,30 90,30 90,50 70,50 70,30" targetPointX="90" targetPointY="30" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="45" version="1.2" width="90" xmlns="http://www.w3.org/2000/svg">
+				<polygon fill="none" points="74,35.25 74,41.75 83.6,41.75 83.6,45 90,38.5 83.6,32 83.6,35.25" stroke="rgb(0,0,0)" stroke-width="1">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</polygon>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Product">
+		<objectSymbol offset="25,15" scaleFilter="1,0">
+			<defaultConnectable isSticky="true" points="25,15 75,15 75,20 25,20 25,15" targetPointX="50" targetPointY="18" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="20" version="1.2" width="75" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="none" height="5" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="50" x="25" y="15">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Req">
+		<objectSymbol offset="63,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="60,30 80,30 80,40 60,40 60,30" targetPointX="80" targetPointY="27" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="38" version="1.2" width="80" xmlns="http://www.w3.org/2000/svg">
+				<polygon fill="none" points="68.6667,30 63,38 74.3333,38 80,30" stroke="rgb(0,0,0)" stroke-width="1">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</polygon>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Resource">
+		<objectSymbol offset="43,25" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="43,21.9495 60,21.9495 60,34.6517 43,34.6517 43,21.9495" targetPointX="60" targetPointY="19.409" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="35" version="1.2" width="60" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="17" sym:x="4.3e1" sym:y="2.5e1">
+					<rect fill="none" height="10" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="15.8667" x="43" y="25">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<rect fill="none" height="4.28571" rx="0" ry="0" stroke="rgb(0,0,0)" stroke-width="1" width="1.13333" x="58.8667" y="27.8571">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="45.2667" x2="45.2667" y1="27.8571" y2="32.1429">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="47.5333" x2="47.5333" y1="27.8571" y2="32.1429">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="49.8" x2="49.8" y1="27.8571" y2="32.1429">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Service">
+		<objectSymbol offset="34,22" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="30.2632,18.7926 50.2632,18.7926 50.2632,34.7926 30.2632,34.7926 30.2632,18.7926" targetPointX="50.2632" targetPointY="18.7926" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="33" version="1.2" width="50" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="none" height="11" rx="6" ry="10" stroke="rgb(0,0,0)" stroke-width="1" width="16" x="34" y="22">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_SS">
+		<objectSymbol offset="35,22" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,20 50,20 50,40 30,40 30,20" targetPointX="50" targetPointY="20" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="36" version="1.2" width="49" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="14" sym:width="14" sym:x="3.5e1" sym:y="2.2e1">
+					<ellipse cx="43" cy="28" fill="none" rx="6" ry="6" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="2.121734e2" sym:sweepAngle="2.041366e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="41" cy="30" fill="none" rx="6" ry="6" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="AM_Stakeholder">
+		<objectSymbol offset="42,20" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="43,20 60.5,20 60.5,30 43,30 43,20" targetPointX="59.625" targetPointY="17" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="30" version="1.2" width="60" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="18" sym:x="4.2e1" sym:y="2.0e1">
+					<ellipse cx="44.5714" cy="25" fill="none" rx="2.57143" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="9.0e1" sym:sweepAngle="1.8e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="57.4286" cy="25" fill="none" rx="2.57143" ry="5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="44.5714" x2="57.4286" y1="20" y2="20">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="44.5714" x2="57.4286" y1="30" y2="30">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+</symbolLibrary>
