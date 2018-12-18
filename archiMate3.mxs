@@ -535,7 +535,7 @@
 		<objectSymbol offset="40,21" scaleFilter="0,0">
 			<defaultConnectable isSticky="true" points="36,19.5385 55.2,19.5385 55.2,38 36,38 36,19.5385" targetPointX="55.2" targetPointY="18.6154" usesGrid="false"></defaultConnectable>
 			<svg baseProfile="tiny" height="34" version="1.2" width="53" xmlns="http://www.w3.org/2000/svg">
-				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10.8333" sym:width="10.8333" sym:x="4.216667e1" sym:y="2.1e1">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10.8333" sym:width="10.8333" sym:x="4.216663e1" sym:y="2.1e1">
 					<ellipse cx="47.5833" cy="26.4167" fill="rgb(0,0,0)" rx="1.80556" ry="1.80556" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</ellipse>
@@ -717,6 +717,25 @@
 					</line>
 					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="Labels4Scaling">
+		<objectSymbol offset="30,20" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="30,20 130,20 130,70 30,70 30,20" targetPointX="80" targetPointY="45" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="70" version="1.2" width="130" xmlns="http://www.w3.org/2000/svg">
+				<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="50" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="100" x="30" y="20">
+					ReportTextSource::Name
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="S" xmlns="http://www.w3.org/2000/svg">ReportTextSource:_symbol_size()</displayCondition>
+					</metaInfo>
+				</textArea>
+				<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="bold" height="50" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="100" x="30" y="20">
+					ReportTextSource::Name
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="B" xmlns="http://www.w3.org/2000/svg">ReportTextSource:_symbol_size()</displayCondition>
+					</metaInfo>
+				</textArea>
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
