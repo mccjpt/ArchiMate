@@ -3,6 +3,7 @@ An implementation of Archimate 3.1 modeling language for MetaEdit+ (www.metacase
 - .mec file includes the metamodel and example models following ArchiMate version 3.1
   - includes support for exporting the models in ArchiMate model exchange format
   - includes support for importing ArchiMate model with diagram representation
+  - covers derivation rules for valid relationships as shown optionally in diagram or via separate reports
 - .mxs file includes library symbols
 
 After importing these two files into MetaEdit+ you may apply Archimate. For importing choose Repository | Import... (https://www.metacase.com/support/55/manuals/meplus/Mp-5_3_2.html) The main objective for this implementation is being able to integrate Archimate with other modeling languages, like BPMN related to processes, Class diagrams related to data objects and elements of Archimate etc. Integrated models provide then richer specification, removes the need to maintain different models (e.g. rename processes in both BPMN and ArchiMate, or Class name in UML and Data object in Archimate). Also the consistency of the specifications can then be better ensured. Additionally, reporting over integrated models, metrics, documentation, code generation etc. becomes possible. Metamodel extensions can be done with MetaEdit+ Workbench.
