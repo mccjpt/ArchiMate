@@ -736,12 +736,6 @@
 						<displayCondition conditionOperator="~=" matchString="" xmlns="http://www.w3.org/2000/svg">ReportTextSource:contents</displayCondition>
 					</metaInfo>
 				</textArea>
-				<textArea display-align="after" fill="rgb(192,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="50" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="6" sym:wordWrap="true" text-anchor="start" width="100" x="30" y="20">
-					ReportTextSource:_symDerivation()
-					<metaInfo xmlns="http://www.metacase.com/symbol">
-						<displayCondition conditionOperator="=" matchString="T" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Show derivated;2</displayCondition>
-					</metaInfo>
-				</textArea>
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
