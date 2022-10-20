@@ -512,6 +512,25 @@
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
+	<librarySymbol name="AM_Meaning">
+		<objectSymbol offset="60,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="60,30 80,30 80,40 60,40 60,30" targetPointX="80" targetPointY="27" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="40" version="1.2" width="80" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="20" sym:x="6.0e1" sym:y="3.0e1">
+					<ellipse cx="61.6667" cy="38.75" fill="none" rx="1.66667" ry="1.25" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<ellipse cx="64.0606" cy="37.5" fill="none" rx="2.39394" ry="1.75" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<rect fill="none" height="7.5" rx="10" ry="10" stroke="rgb(0,0,0)" stroke-width="1" width="16.6667" x="63.3333" y="30">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</rect>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
 	<librarySymbol name="AM_Node">
 		<objectSymbol offset="24,32" scaleFilter="1,1">
 			<defaultConnectable isSticky="true" points="20,30 40,30 40,50 20,50 20,30" targetPointX="40" targetPointY="30" usesGrid="false"></defaultConnectable>
@@ -720,6 +739,25 @@
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
+	<librarySymbol name="AM_WorkPackage">
+		<objectSymbol offset="60,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="60,30 80,30 80,40 60,40 60,30" targetPointX="80" targetPointY="27" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="40" version="1.2" width="80" xmlns="http://www.w3.org/2000/svg">
+				<g fill="none" stroke="rgb(0,0,0)" stroke-width="1" sym:height="10" sym:width="20" sym:x="6.0e1" sym:y="3.0e1">
+					<ellipse cx="66.25" cy="34.1667" fill="none" rx="6.25" ry="4.16667" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="3.6e2" sym:sweepAngle="-3.6e2">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</ellipse>
+					<polygon fill="rgb(0,0,0)" points="80,38.3333 75,36.6667 75,40" stroke="rgb(0,0,0)" stroke-width="1">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</polygon>
+					<line stroke="rgb(0,0,0)" stroke-width="1" x1="65" x2="75" y1="38.3333" y2="38.3333">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</line>
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</g>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
 	<librarySymbol name="Labels4Scaling">
 		<objectSymbol offset="30,20" scaleFilter="1,1">
 			<defaultConnectable isSticky="true" points="30,20 130,20 130,70 30,70 30,20" targetPointX="80" targetPointY="45" usesGrid="false"></defaultConnectable>
@@ -734,6 +772,12 @@
 					ReportTextSource::Name
 					<metaInfo xmlns="http://www.metacase.com/symbol">
 						<displayCondition conditionOperator="~=" matchString="" xmlns="http://www.w3.org/2000/svg">ReportTextSource:contents</displayCondition>
+					</metaInfo>
+				</textArea>
+				<textArea display-align="after" fill="rgb(192,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="50" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="6" sym:wordWrap="true" text-anchor="start" width="100" x="30" y="20">
+					ReportTextSource:_symDerivation()
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="T" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Show derivated;2</displayCondition>
 					</metaInfo>
 				</textArea>
 			</svg>
