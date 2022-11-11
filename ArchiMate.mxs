@@ -458,19 +458,6 @@
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
-	<librarySymbol name="AM_Line">
-		<objectSymbol offset="20,15" scaleFilter="1,0">
-			<defaultConnectable isSticky="true" points="20,15 120,15 120,25 20,25 20,15" targetPointX="70" targetPointY="20" usesGrid="false"></defaultConnectable>
-			<svg baseProfile="tiny" height="25" version="1.2" width="120" xmlns="http://www.w3.org/2000/svg">
-				<line stroke="rgb(0,0,0)" stroke-width="1" x1="20" x2="120" y1="20" y2="20">
-					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-				</line>
-				<rect fill="none" height="10" rx="0" ry="0" stroke="none" stroke-width="1" width="100" x="20" y="15">
-					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-				</rect>
-			</svg>
-		</objectSymbol>
-	</librarySymbol>
 	<librarySymbol name="AM_Location">
 		<objectSymbol offset="50,30" scaleFilter="0,0">
 			<defaultConnectable isSticky="true" points="50,26 62,26 62,50.5085 50,50.5085 50,26" targetPointX="61" targetPointY="27.114" usesGrid="false"></defaultConnectable>
