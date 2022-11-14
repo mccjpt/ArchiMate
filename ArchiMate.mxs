@@ -726,6 +726,16 @@
 			</svg>
 		</objectSymbol>
 	</librarySymbol>
+	<librarySymbol name="AM_Value">
+		<objectSymbol offset="51,30" scaleFilter="0,0">
+			<defaultConnectable isSticky="true" points="50,28 70,28 70,40 50,40 50,28" targetPointX="70" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="39" version="1.2" width="69" xmlns="http://www.w3.org/2000/svg">
+				<ellipse cx="60" cy="34.5" fill="none" rx="9" ry="4.5" stroke="rgb(0,0,0)" stroke-width="1" sym:startAngle="0.0e0" sym:sweepAngle="3.6e2">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</ellipse>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
 	<librarySymbol name="AM_WorkPackage">
 		<objectSymbol offset="60,30" scaleFilter="0,0">
 			<defaultConnectable isSticky="true" points="60,30 80,30 80,40 60,40 60,30" targetPointX="80" targetPointY="27" usesGrid="false"></defaultConnectable>
