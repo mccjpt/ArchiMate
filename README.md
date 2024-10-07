@@ -1,4 +1,4 @@
-An implementation of Archimate 3.2 modeling language for MetaEdit+ (www.metacase.com/download) for collaborative modeling, model checking, publishing and model exchange. 
+An implementation of modeling language for MetaEdit+ based on the ArchiMate 3.2 standard. MetaEdit+ (www.metacase.com/download) provides collaborative modeling, model checking, publishing and model exchange. 
 
 - .mec file includes the metamodel and example models following ArchiMate version 3.2
   - includes support for exporting the models in ArchiMate model exchange format
